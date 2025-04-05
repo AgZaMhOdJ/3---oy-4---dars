@@ -94,6 +94,11 @@ section .search {
     justify-content: space-between;
 }
 
+section a {
+    color: orangered;
+    text-decoration: none;
+}
+
 section input {
     padding: 10px 10px;
     width: 400px;
