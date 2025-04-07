@@ -66,6 +66,7 @@ header .right .profile {
 
 section {
     background-color: #F5F5F5;
+    padding-top: 50px;
 }
 
 section .box {
@@ -82,6 +83,10 @@ section .card {
     border-radius: 20px;
 }
 
+section .card0 {
+    color: #00000054;
+}
+
 section .card p {
     display: flex;
     justify-content: center;
@@ -92,11 +97,13 @@ section .card p {
 section .search {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 section a {
     color: orangered;
     text-decoration: none;
+    font-size: 25px;
 }
 
 section input {
